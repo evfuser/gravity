@@ -1,1 +1,5 @@
-This is newly added file called file1.txt
+This is newly added file called file1.txt.
+
+//Lets add some more text to this file:
+
+Gravity Project is 2 years old as on date.
