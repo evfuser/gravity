@@ -12,3 +12,6 @@ How to Install Gravity Project:
 7) Run "gulp"
 8) Run "node demo-server/app.js"
 9) Visit http://localhost:8080 to preview project. (username:gravity, password:gravity)
+
+
+After creating file1.txt two more pieces of information is added
